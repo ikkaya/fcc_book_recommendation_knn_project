@@ -1,5 +1,5 @@
 # fcc_book_recommendation_knn_project
-Book recommendation algorithm using K-Nearest Neighbors
+#### Book recommendation algorithm using K-Nearest Neighbors
 
 A book recommendation system is a type of recommendation system where we have to recommend similar books to the reader based on his interest. 
 
